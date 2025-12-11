@@ -6,12 +6,12 @@
 
 ## 📖 İçindekiler
 
-  - [Proje Hakkında](https://www.google.com/search?q=%23proje-hakk%C4%B1nda)
-  - [İş Akışı ve Kapsam](https://www.google.com/search?q=%23i%C5%9F-ak%C4%B1%C5%9F%C4%B1-ve-kapsam)
-  - [Sistem Mimarisi ve Entegrasyon](https://www.google.com/search?q=%23sistem-mimarisi-ve-entegrasyon)
-  - [Donanım Gereksinimleri](https://www.google.com/search?q=%23donan%C4%B1m-gereksinimleri)
-  - [Teknik ve Güvenlik Gereksinimleri](https://www.google.com/search?q=%23teknik-ve-g%C3%BCvenlik-gereksinimleri)
-  - [Test ve Devreye Alma](https://www.google.com/search?q=%23test-ve-devreye-alma)
+  - [Proje Hakkında]
+  - [İş Akışı ve Kapsam]
+  - [Sistem Mimarisi ve Entegrasyon]
+  - [Donanım Gereksinimleri]
+  - [Teknik ve Güvenlik Gereksinimleri]
+  - [Test ve Devreye Alma]
 
 -----
 
