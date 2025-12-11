@@ -17,13 +17,13 @@
 
 ## 🚀 Proje Hakkında
 
-Tedarik İade Projesi, bayilerden iade edilen ürünlerin çuval bazında takibini ve doğrulanmasını sağlar. [cite_start]Süreç, sahadan toplanan kimlik/ID verilerinin RFID donanımları ile işlenmesi ve merkezi sistemlerle (SAP/MOBİS NG) senkronize edilmesi üzerine kuruludur[cite: 6].
+Tedarik İade Projesi, bayilerden iade edilen ürünlerin çuval bazında takibini ve doğrulanmasını sağlar. [cite_start]Süreç, sahadan toplanan kimlik/ID verilerinin RFID donanımları ile işlenmesi ve merkezi sistemlerle (SAP/MOBİS NG) senkronize edilmesi üzerine kuruludur.
 
 **Temel Hedefler:**
 
-  * [cite_start]İade süreçlerinin RFID ile otomatize edilmesi[cite: 26].
-  * [cite_start]Manuel sayım hatalarının önüne geçilmesi ve %100 doğrulukla okuma sağlanması[cite: 126].
-  * [cite_start]Anlık stok ve iade takibi entegrasyonu[cite: 25].
+  * İade süreçlerinin RFID ile otomatize edilmesi.
+  * Manuel sayım hatalarının önüne geçilmesi ve %100 doğrulukla okuma sağlanması.
+  * Anlık stok ve iade takibi entegrasyonu.
 
 -----
 
