@@ -1,8 +1,4 @@
-# YILDIZHOLDING_HGD_PROJESIHarika bir fikir. Yüklediğin **Tedarik İade Projesi - HGD RFP Dokümanı**'ndan yola çıkarak, bu projenin teknik gereksinimlerini, mimarisini ve kapsamını anlatan profesyonel bir `README.md` dosyası hazırladım.
 
-Bu taslak, projenin GitHub reposunda "Proje Hakkında", "Mimari", "Donanım Gereksinimleri" ve "Kurulum/Güvenlik Standartları" gibi başlıkları içerir.
-
------
 
 # Tedarik İade Projesi - HGD (Hızlı Geri Dönüşüm)
 
